@@ -9,5 +9,4 @@ public class Tree {
         this.subtrees = subtrees;
     }
 
-    public class average()
-}
+  
