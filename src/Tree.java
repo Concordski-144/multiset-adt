@@ -1,4 +1,3 @@
-import java.util;
 import java.util.ArrayList;
 
 public class Tree {
@@ -9,4 +8,6 @@ public class Tree {
         this.root = root;
         this.subtrees = subtrees;
     }
+
+    public class average()
 }
