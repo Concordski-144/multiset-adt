@@ -9,16 +9,4 @@ public class Tree {
         this.subtrees = subtrees;
     }
 
-    public boolean isEmpty() {
-        return this.root == null;
-    }
-
-    public int length() {
-        if (this.isEmpty()) {
-            return 0;
-        }
-        else {
-            return 1; // this is not right
-        }
-    }
-}
+  
